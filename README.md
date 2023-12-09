@@ -47,3 +47,10 @@ Interpretation: Observations that are close in the plot are similar in terms of 
 By examining the scatter plot, one can assess how well the two principal components separate the classes in the Iris dataset. If the classes are distinct, it indicates that the two principal components retain enough information to discriminate between different species. This visualization can be valuable for understanding the inherent structure of the dataset and may be useful for subsequent classification tasks.
 
 
+
+ # README FOR PROJECT IRIS
+
+ 
+
+
+
