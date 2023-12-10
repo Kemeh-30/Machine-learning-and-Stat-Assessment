@@ -1,9 +1,13 @@
-Iris Flower Classification Project
-Overview
+IRIS FLOWER CLASSIFICATION PROJECT
+
+
+OVERVIEW 
+
 This project explores the well-known Iris Flower dataset associated with Ronald A. Fisher. The primary goal is to classify iris flowers into different species using a Decision Tree Classifier. The analysis includes data exploration, visualization, model training, and evaluation.
 
-Contents
-Notebook: Jupyter notebook (iris_classification.ipynb) containing the entire analysis, code, and visualizations.
+CONTENTS
+
+Notebook: Jupyter notebook (projectiris.ipynb) containing the entire analysis, code, and visualizations.
 Data: The Iris dataset is included in the scikit-learn library.
 Readme: This file provides an overview of the project and instructions for use.
 
